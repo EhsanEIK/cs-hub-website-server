@@ -1,0 +1,66 @@
+[
+    {
+        "id": "63575008d9dcf2dd110d51ef",
+        "image": "https://m.media-amazon.com/images/I/717-4TXKe9L.png",
+        "title": "Computer Fundamentals",
+        "description": "Computer fundamentals tutorial provides basic and advanced concepts of Bootstrap. Our Computer fundamentals is designed for beginners and professionals. Computer is an electronic device i.e. used to work with information or compute. It is derived from the Latin word 'computare' which means to calculate. Our Computer fundamentals tutorial includes all topics of Computer fundamentals such as input devices, output devices, memory, CPU, motherboard, computer network, virus, software, hardware etc. The first counting device was used by the primitive people. They used sticks, stones and bones as counting tools. As human mind and technology improved with time more computing devices were developed. The history of computer begins with the birth of abacus which is believed to be the first computer. It is said that Chinese invented Abacus around 4,000 years ago. It was a wooden rack which has metal rods with beads mounted on them. The beads were moved by the abacus operator according to some rules to perform arithmetic calculations. Pascaline is also known as Arithmetic Machine or Adding Machine. It was invented between 1642 and 1644 by a French mathematician-philosopher Biaise Pascal. It is believed that it was the first mechanical and automatic calculator. Pascal invented this machine to help his father, a tax accountant. It could only perform addition and subtraction. It was a wooden box with a series of gears and wheels. When a wheel is rotated one revolution, it rotates the neighboring wheel. A series of windows is given on the top of the wheels to read the totals.",
+        "duration": 3,
+        "price": 150
+    },
+    {
+        "id": "6357500887a9d56b2471267c",
+        "image": "",
+        "title": "Structured Programming Language",
+        "description": "Structured programming is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection (if/then/else) and repetition (while and for), block structures, and subroutines. It emerged in the late 1950s with the appearance of the ALGOL 58 and ALGOL 60 programming languages, with the latter including support for block structures. Contributing factors to its popularity and widespread acceptance, at first in academia and later among practitioners, include the discovery of what is now known as the structured program theorem in 1966, and the publication of the influential Go To Statement Considered Harmful open letter in 1968 by Dutch computer scientist Edsger W. Dijkstra, who coined the term structured programming. Structured programming is most frequently used with deviations that allow for clearer programs in some particular cases, such as when exception handling has to be performed.  Sequence: ordered statements or subroutines executed in sequence. Selection: one or a number of statements is executed depending on the state of the program. This is usually expressed with keywords such as if..then..else..endif. The conditional statement should have at least one true condition and each condition should have one exit point at max. Iteration: a statement or block is executed until the program reaches a certain state, or operations have been applied to every element of a collection. This is usually expressed with keywords such as while, repeat, for or do..until. Often it is recommended that each loop should only have one entry point (and in the original structural programming, also only one exit point, and a few languages enforce this). Recursion: a statement is executed by repeatedly calling itself until termination conditions are met. While similar in practice to iterative loops, recursive loops may be more computationally efficient and are implemented differently as a cascading stack.",
+        "duration": 6,
+        "price": 200
+    },
+    {
+        "id": "63575008e3fe7845c38ac302",
+        "image": "https://miro.medium.com/max/600/0*7zMicw-FfThCbN35.png",
+        "title": "Object Oriented Programming",
+        "description": "Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior. OOP focuses on the objects that developers want to manipulate rather than the logic required to manipulate them. This approach to programming is well-suited for programs that are large, complex and actively updated or maintained. This includes programs for manufacturing and design, as well as mobile applications; for example, OOP can be used for manufacturing system simulation software. The organization of an object-oriented program also makes the method beneficial to collaborative development, where projects are divided into groups. Additional benefits of OOP include code reusability, scalability and efficiency. This principle states that all important information is contained inside an object and only select information is exposed. The implementation and state of each object are privately held inside a defined class. Other objects do not have access to this class or the authority to make changes. They are only able to call a list of public functions or methods. This characteristic of data hiding provides greater program security and avoids unintended data corruption.",
+        "duration": 6,
+        "price": 300
+    },
+    {
+        "id": "63575008a3bf8af3821b2899",
+        "image": "https://omnitechnet.com/wp-content/uploads/2022/09/network-1024x768-1.jpg",
+        "title": "Computer Network and Data Communication",
+        "description": "Computer Network tutorial provides basic and advanced concepts of Data Communication & Networks (DCN). Our Computer Networking Tutorial is designed for beginners and professionals. Our Computer Network tutorial includes all topics of Computer Network such as introduction, features, types of computer network, architecture, hardware, software, internet, intranet, website, LAN, WAN, etc. A computer network is a set of devices connected through links. A node can be computer, printer, or any other device capable of sending or receiving the data. The links connecting the nodes are known as communication channels. It provides limited interaction that a user can have with the entire system. For example, a bank allows the users to access their own accounts through an ATM without allowing them to access the bank's entire database. Multiple computers running the same program at the same time can provide the security through redundancy. Multiple computers can solve the problem faster than a single machine working alone.",
+        "duration": 8,
+        "price": 350
+    },
+    {
+        "id": "63575008b3af23fdbf43ced1",
+        "image": "https://www.profesionalreview.com/wp-content/uploads/2019/08/Machine-Learning-5.jpeg",
+        "title": "Machine Learning Basic to Advance",
+        "description": "To become an expert in machine learning, you first need a strong foundation in four learning areas : coding, math, ML theory, and how to build your own ML project from start to finish. When beginning your educational path, it's important to first understand how to learn ML. We've broken the learning process into four areas of knowledge, with each area providing a foundational piece of the ML puzzle. To help you on your path, we've identified books, videos, and online courses that will uplevel your abilities, and prepare you to use ML for your projects. Start with our guided curriculums designed to increase your knowledge, or choose your own path by exploring our resource library. In the real world, we are surrounded by humans who can learn everything from their experiences with their learning capability, and we have computers or machines which work on our instructions. But can a machine also learn from experiences or past data like a human does? So here comes the role of Machine Learning.",
+        "duration": 5,
+        "price": 200
+    },
+    {
+        "id": "63575008c5dc21749c0b72a9",
+        "image": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/09/09202218/iStock-1207062970.jpg",
+        "title": "Artificial Intelligence Basic",
+        "description": "The Artificial Intelligence tutorial provides an introduction to AI which will help you to understand the concepts behind Artificial Intelligence. In this tutorial, we have also discussed various popular topics such as History of AI, applications of AI, deep learning, machine learning, natural language processing, Reinforcement learning, Q-learning. In today's world, technology is growing very fast, and we are getting in touch with different new technologies day by day. The booming technologies of computer science is Artificial Intelligence which is ready to create a new revolution in the world by making intelligent machines.The Artificial Intelligence is now all around us. It is currently working with a variety of subfields, ranging from general to specific, such as self-driving cars, playing chess, proving theorems, playing music, Painting, etc. Artificial Intelligence exists when a machine can have human based skills such as learning, reasoning, and solving problems With Artificial Intelligence you do not need to preprogram a machine to do some work, despite that you can create a machine with programmed algorithms which can work with own intelligence, and that is the awesomeness of AI.",
+        "duration": 3,
+        "price": 200
+    },
+    {
+        "id": "63575008aa786567ae0c64a6",
+        "image": "https://i.ytimg.com/vi/pwwVOpXrazs/maxresdefault.jpg",
+        "title": "Robotics Advance Course",
+        "description": "Robotics tutorial provides basic and advanced concepts of Robotics. Our Robotics tutorial is designed for beginners and professionals. Robotics is the term used in artificial intelligence that deals with a study of creating intelligent and efficient robots. The aim of the robot is to manipulate the objects by perceiving, moving, picking, modifying the physical properties of object. Robotics is a branch of Artificial Intelligence (AI), it is mainly composed of electrical engineering, mechanical engineering and computer science engineering for construction, designing and application of robots. Robotics is science of building or designing an application of robots. The aim of robotics is to design an efficient robot.",
+        "duration": 4,
+        "price": 150
+    },
+    {
+        "id": "63575008f9748c2fb1c8a20b",
+        "image": "https://siit.co/guestposts/wp-content/uploads/2022/06/database.png",
+        "title": "Database Management",
+        "description": "DBMS Tutorial provides basic and advanced concepts of Database. Our DBMS Tutorial is designed for beginners and professionals both. Database management system is software that is used to manage the database. The database is a collection of inter-related data which is used to retrieve, insert and delete the data efficiently. It is also used to organize the data in the form of a table, schema, views, and reports, etc.Database management system is a software which is used to manage the database. For example: MySQL, Oracle, etc are a very popular commercial database which is used in different applications. DBMS provides an interface to perform various operations like database creation, storing data in it, updating data, creating a table in the database and a lot more. It provides protection and security to the database. In the case of multiple users, it also maintains data consistency.",
+        "duration": 3,
+        "price": 150
+    }
+]
