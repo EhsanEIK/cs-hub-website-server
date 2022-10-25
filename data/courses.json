@@ -1,7 +1,7 @@
 [
     {
         "id": "63575008d9dcf2dd110d51ef",
-        "image": "https://m.media-amazon.com/images/I/717-4TXKe9L.png",
+        "image": "https://cms-media.bartleby.com/wp-content/uploads/sites/2/2021/05/31094902/Computer-fundamentals-2-min-1-1024x621.jpg",
         "title": "Computer Fundamentals",
         "description": "Computer fundamentals tutorial provides basic and advanced concepts of Bootstrap. Our Computer fundamentals is designed for beginners and professionals. Computer is an electronic device i.e. used to work with information or compute. It is derived from the Latin word 'computare' which means to calculate. Our Computer fundamentals tutorial includes all topics of Computer fundamentals such as input devices, output devices, memory, CPU, motherboard, computer network, virus, software, hardware etc. The first counting device was used by the primitive people. They used sticks, stones and bones as counting tools. As human mind and technology improved with time more computing devices were developed. The history of computer begins with the birth of abacus which is believed to be the first computer. It is said that Chinese invented Abacus around 4,000 years ago. It was a wooden rack which has metal rods with beads mounted on them. The beads were moved by the abacus operator according to some rules to perform arithmetic calculations. Pascaline is also known as Arithmetic Machine or Adding Machine. It was invented between 1642 and 1644 by a French mathematician-philosopher Biaise Pascal. It is believed that it was the first mechanical and automatic calculator. Pascal invented this machine to help his father, a tax accountant. It could only perform addition and subtraction. It was a wooden box with a series of gears and wheels. When a wheel is rotated one revolution, it rotates the neighboring wheel. A series of windows is given on the top of the wheels to read the totals.",
         "duration": 3,
@@ -17,7 +17,7 @@
     },
     {
         "id": "63575008e3fe7845c38ac302",
-        "image": "https://miro.medium.com/max/600/0*7zMicw-FfThCbN35.png",
+        "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ymOHw4aF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/rewxsx85fqmolo6r49p9.jpg",
         "title": "Object Oriented Programming",
         "description": "Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior. OOP focuses on the objects that developers want to manipulate rather than the logic required to manipulate them. This approach to programming is well-suited for programs that are large, complex and actively updated or maintained. This includes programs for manufacturing and design, as well as mobile applications; for example, OOP can be used for manufacturing system simulation software. The organization of an object-oriented program also makes the method beneficial to collaborative development, where projects are divided into groups. Additional benefits of OOP include code reusability, scalability and efficiency. This principle states that all important information is contained inside an object and only select information is exposed. The implementation and state of each object are privately held inside a defined class. Other objects do not have access to this class or the authority to make changes. They are only able to call a list of public functions or methods. This characteristic of data hiding provides greater program security and avoids unintended data corruption.",
         "duration": 6,
@@ -57,7 +57,7 @@
     },
     {
         "id": "63575008f9748c2fb1c8a20b",
-        "image": "https://siit.co/guestposts/wp-content/uploads/2022/06/database.png",
+        "image": "https://www.techdee.com/wp-content/uploads/2021/10/Review-Of-DBMS-For-Access-Control-And-Management-System.jpg",
         "title": "Database Management",
         "description": "DBMS Tutorial provides basic and advanced concepts of Database. Our DBMS Tutorial is designed for beginners and professionals both. Database management system is software that is used to manage the database. The database is a collection of inter-related data which is used to retrieve, insert and delete the data efficiently. It is also used to organize the data in the form of a table, schema, views, and reports, etc.Database management system is a software which is used to manage the database. For example: MySQL, Oracle, etc are a very popular commercial database which is used in different applications. DBMS provides an interface to perform various operations like database creation, storing data in it, updating data, creating a table in the database and a lot more. It provides protection and security to the database. In the case of multiple users, it also maintains data consistency.",
         "duration": 3,
